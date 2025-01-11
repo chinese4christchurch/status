@@ -6,8 +6,9 @@ sites:
   - name: Portal
     url: https://www.cfcchayward.org
   - name: CFCC
-    url: https://chineseforchristchurch.org/hayward/
- 
+    url: https://chineseforchristchurch.org/hayward
+  - name: Bible
+    url: https://bible.chineseforchristchurch.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
