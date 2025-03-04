@@ -22,19 +22,19 @@
     "url": "https://chineseforchristchurch.org/hayward",
     "icon": "https://icons.duckduckgo.com/ip3/chineseforchristchurch.org.ico",
     "slug": "cfcch-chinese",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 141,
-    "timeWeek": 194,
-    "timeMonth": 457,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 508,
+    "timeDay": 142,
+    "timeWeek": 188,
+    "timeMonth": 446,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-03-04": 1
+      "2025-03-04": 16
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://bible.chineseforchristchurch.org",
     "icon": "https://icons.duckduckgo.com/ip3/bible.chineseforchristchurch.org.ico",
     "slug": "bible-chinese",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 148,
-    "timeWeek": 183,
-    "timeMonth": 345,
-    "timeYear": 339,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 334,
+    "timeDay": 98,
+    "timeWeek": 166,
+    "timeMonth": 335,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-03-04": 0
+      "2025-03-04": 16
     }
   },
   {
