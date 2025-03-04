@@ -22,10 +22,10 @@
     "url": "https://chineseforchristchurch.org/hayward",
     "icon": "https://icons.duckduckgo.com/ip3/chineseforchristchurch.org.ico",
     "slug": "cfcch-chinese",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
@@ -33,14 +33,16 @@
     "timeWeek": 194,
     "timeMonth": 457,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 1
+    }
   },
   {
     "name": "Bible (Chinese)",
     "url": "https://bible.chineseforchristchurch.org",
     "icon": "https://icons.duckduckgo.com/ip3/bible.chineseforchristchurch.org.ico",
     "slug": "bible-chinese",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 183,
     "timeMonth": 345,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "CFCCH Crossing",
