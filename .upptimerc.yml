@@ -11,6 +11,14 @@ sites:
     url: https://bible.chineseforchristchurch.org
   - name: CFCCH Crossing
     url: https://www.thecrossing.website
+  - name: Chinese backup website (preprod)
+    url: $CHINESE_BACKUP
+  - name: Chinese test website
+    url: $CHINESE_TEST
+  - name: Files
+    url: $FILE
+assignees:
+  - xjlin0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
