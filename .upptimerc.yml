@@ -17,6 +17,8 @@ sites:
     url: $CHINESE_TEST
   - name: Files
     url: $FILE
+  - name: Member
+    url: $MEMBER
 assignees:
   - xjlin0
 
