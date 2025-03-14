@@ -11,16 +11,27 @@ sites:
     url: https://bible.chineseforchristchurch.org
   - name: potluck (Chinese)
     url: https://chineseforchristchurch.org/potluck
-  - name: CFCCH Crossing
-    url: https://www.thecrossing.website
+  - name: Pastor Chiu (Chinese)
+    url: https://chineseforchristchurch.org/pastorchiu/
+  - name: Mustard seeds should reject guests without passwords (Chinese)
+    url: https://chineseforchristchurch.org/seeds/
+    expectedStatusCodes:
+        - 401
+  - name: Mustard seeds should welcome guests with passwords (Chinese) 
+    url: https://chineseforchristchurch.org/seeds/
+    headers:
+    - "Authorization: Basic $MUSTARD_SEEDS_PASSWORD"
   - name: Chinese backup website (preprod)
     url: $CHINESE_BACKUP
   - name: Chinese test website
     url: $CHINESE_TEST
-  - name: Files
-    url: $FILE
   - name: Member
     url: $MEMBER
+  - name: CFCCH Crossing
+    url: https://www.thecrossing.website
+  - name: Files
+    url: $FILE
+
 assignees:
   - xjlin0
 
