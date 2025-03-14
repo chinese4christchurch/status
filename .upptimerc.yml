@@ -9,6 +9,8 @@ sites:
     url: https://chineseforchristchurch.org/hayward
   - name: Bible (Chinese)
     url: https://bible.chineseforchristchurch.org
+  - name: potluck (Chinese)
+    url: https://chineseforchristchurch.org/potluck
   - name: CFCCH Crossing
     url: https://www.thecrossing.website
   - name: Chinese backup website (preprod)
