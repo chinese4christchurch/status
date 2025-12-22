@@ -3,30 +3,30 @@ owner: chinese4christchurch # Your GitHub organization or username, where this r
 repo: status # The name of this repository
 
 sites:
-  - name: Portal
-    url: https://www.cfcchayward.org
-  - name: CFCCH Chinese
-    url: https://chineseforchristchurch.org/hayward
-  - name: Bible (Chinese)
-    url: https://bible.chineseforchristchurch.org
-  - name: potluck (Chinese)
-    url: https://chineseforchristchurch.org/potluck
-  - name: Pastor Chiu (Chinese)
-    url: https://chineseforchristchurch.org/pastorchiu/
-  - name: Mustard seeds should reject guests without passwords (Chinese)
-    url: https://chineseforchristchurch.org/seeds/
-    expectedStatusCodes:
-        - 401
-  - name: Mustard seeds should welcome guests with passwords (Chinese) 
-    url: https://chineseforchristchurch.org/seeds/
-    headers:
-    - "Authorization: Basic $MUSTARD_SEEDS_PASSWORD"
-  - name: Chinese backup website (preprod)
-    url: $CHINESE_BACKUP
-  - name: Chinese test website
-    url: $CHINESE_TEST
-  - name: Member
-    url: $MEMBER
+  # - name: Portal
+  #   url: https://www.cfcchayward.org
+  # - name: CFCCH Chinese
+  #   url: https://chineseforchristchurch.org/hayward
+  # - name: Bible (Chinese)
+  #   url: https://bible.chineseforchristchurch.org
+  # - name: potluck (Chinese)
+  #   url: https://chineseforchristchurch.org/potluck
+  # - name: Pastor Chiu (Chinese)
+  #   url: https://chineseforchristchurch.org/pastorchiu/
+  # - name: Mustard seeds should reject guests without passwords (Chinese)
+  #   url: https://chineseforchristchurch.org/seeds/
+  #   expectedStatusCodes:
+  #       - 401
+  # - name: Mustard seeds should welcome guests with passwords (Chinese) 
+  #   url: https://chineseforchristchurch.org/seeds/
+  #   headers:
+  #   - "Authorization: Basic $MUSTARD_SEEDS_PASSWORD"
+  # - name: Chinese backup website (preprod)
+  #   url: $CHINESE_BACKUP
+  # - name: Chinese test website
+  #   url: $CHINESE_TEST
+  # - name: Member
+  #   url: $MEMBER
   - name: CFCCH Crossing
     url: https://www.thecrossing.website
   - name: Files
