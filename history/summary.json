@@ -4,17 +4,17 @@
     "url": "https://www.cfcchayward.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cfcchayward.org.ico",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 372,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chinese-backup-website-preprod",
     "status": "down",
-    "uptime": "30.59%",
-    "uptimeDay": "30.59%",
-    "uptimeWeek": "30.59%",
-    "uptimeMonth": "30.59%",
-    "uptimeYear": "30.59%",
+    "uptime": "22.30%",
+    "uptimeDay": "22.30%",
+    "uptimeWeek": "22.30%",
+    "uptimeMonth": "22.30%",
+    "uptimeYear": "22.30%",
     "time": 366,
     "timeDay": 255,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2026-07-04": 0
+      "2026-07-04": 1
     }
   },
   {
@@ -154,9 +154,9 @@
     "slug": "chinese-test-website",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "46.04%",
-    "uptimeWeek": "46.04%",
-    "uptimeMonth": "46.04%",
+    "uptimeDay": "28.63%",
+    "uptimeWeek": "28.63%",
+    "uptimeMonth": "28.63%",
     "uptimeYear": "0.00%",
     "time": 178,
     "timeDay": 217,
@@ -165,7 +165,7 @@
     "timeYear": 181,
     "dailyMinutesDown": {
       "2025-11-11": 24,
-      "2026-07-04": 0
+      "2026-07-04": 1
     }
   },
   {
