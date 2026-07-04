@@ -23,8 +23,8 @@ sites:
     - "Authorization: Basic $MUSTARD_SEEDS_PASSWORD"
   - name: Chinese backup website (preprod)
     url: $CHINESE_BACKUP
-  - name: Chinese test website
-    url: $CHINESE_TEST
+  # - name: Chinese test website
+  #   url: $CHINESE_TEST
   - name: Member
     url: $MEMBER
   - name: CFCCH Crossing
