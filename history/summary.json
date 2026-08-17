@@ -150,21 +150,21 @@
     "url": "$MEMBER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "member",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.40%",
     "time": 270,
-    "timeDay": 384,
-    "timeWeek": 243,
-    "timeMonth": 247,
+    "timeDay": 345,
+    "timeWeek": 245,
+    "timeMonth": 248,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2025-09-07": 93,
       "2026-07-27": 212,
-      "2026-08-17": 0
+      "2026-08-17": 72
     }
   },
   {
