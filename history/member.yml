@@ -1,7 +1,7 @@
 url: $MEMBER
-status: down
-code: 500
-responseTime: 682
-lastUpdated: 2026-08-17T02:12:14.100Z
+status: up
+code: 200
+responseTime: 266
+lastUpdated: 2026-08-17T03:24:18.718Z
 startTime: 2026-07-04T06:18:15.117Z
 generator: Upptime <https://github.com/upptime/upptime>
